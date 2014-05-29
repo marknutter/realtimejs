@@ -1,4 +1,4 @@
-nodular
+RealtimeJS
 =======
 
-realtimejs
+An open source realtime backend-as-a-service
