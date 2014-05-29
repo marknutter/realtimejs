@@ -1,0 +1,27 @@
+{
+  "name": "Nodular",
+  "version": "0.0.1",
+  "description": "A realtime webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realtime",
+    "webserver",
+    "websockets",
+    "angular"
+  ],
+  "author": "Mark Nutter <marknutter@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ws": "0.4.31",
+    "socketcluster": "0.9.8",
+    "socketcluster-client": "0.9.8",
+    "mongodb": "*",
+    "underscore": "*",
+    "q": "1.0.0",
+    "connect": "*",
+    "serve-static": "*"
+  }
+}
